@@ -1,6 +1,6 @@
 # Quotify: a motivational quote service
 
-* ## [Live Version](https://www.alexisthedev.github.io/quotify)
+* ## [Live Version](https://alexisthedev.github.io/quotify)
 
 ### Quotify uses JavaScript to randomly display a motivational quote from an array of quotes
 
